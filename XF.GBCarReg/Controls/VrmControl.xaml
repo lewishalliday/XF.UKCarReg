@@ -4,11 +4,11 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:controls="clr-namespace:XF.GBCarReg.Controls"
+    x:Name="ControlFrame"
     Padding="0"
     BackgroundColor="White"
-    BorderColor="LightGray"
     CornerRadius="8"
-    HasShadow="False"
+    HasShadow="True"
     HeightRequest="60">
     <StackLayout Orientation="Horizontal" Spacing="0">
         <Image

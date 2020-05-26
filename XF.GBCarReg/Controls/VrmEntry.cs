@@ -12,8 +12,8 @@ namespace XF.GBCarReg.Controls
             //    : "UKNumberPlate.ttf#UKNumberPlate";
 
             FontFamily = "UKNumberPlate";
-
             FontSize = 40;
+            IsTextPredictionEnabled = false;
             //BackgroundColor = Color.FromHex("F1DC00");
             Visual = VisualMarker.Default;
             Keyboard = Keyboard.Text;
